@@ -8,19 +8,13 @@
   I build scalable web applications, clean backend systems, and practical AI-powered solutions.
 </p>
 
+<p align="center">📍 Pakistan</p>
+
 <p align="center">
-  <a href="https://basit-portfolio-2unb.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Muhammad%20Basit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-basit-29913028a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Basit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Basit-Arshad">
-    <img src="https://img.shields.io/badge/GitHub-Basit--Arshad-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:basitarshad97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://basit-portfolio-2unb.vercel.app/">🌐 Portfolio</a> |
+  <a href="https://www.linkedin.com/in/muhammad-basit-29913028a/">LinkedIn</a> |
+  <a href="https://github.com/Basit-Arshad">GitHub</a> |
+  <a href="mailto:basitarshad97@gmail.com">Email</a>
 </p>
 
 ---
@@ -29,7 +23,7 @@
 
 I am a final-year **Computer Science student at FAST-NUCES** with hands-on experience in building **full-stack applications**, developing **REST APIs**, and designing **database-driven systems**.
 
-My main strength is **backend-focused development**, but I enjoy working across the full stack to build products that are scalable, maintainable, and useful in real-world scenarios.
+My core strength is **backend-focused development**, but I enjoy working across the full stack to create products that are scalable, maintainable, and practical in real-world use.
 
 ---
 
@@ -68,38 +62,38 @@ My main strength is **backend-focused development**, but I enjoy working across 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 </p>
 
 ---
@@ -107,9 +101,9 @@ My main strength is **backend-focused development**, but I enjoy working across 
 ## GitHub Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-138-4C8BF5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Current%20Streak-0-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Longest%20Streak-2-14B8A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-138-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Current%20Streak-0-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-2-teal?style=flat-square" />
 </p>
 
 <p align="center">
@@ -187,12 +181,6 @@ My main strength is **backend-focused development**, but I enjoy working across 
 ## Portfolio
 
 <p align="center">
-  <a href="https://basit-portfolio-2unb.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Muhammad%20Basit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://basit-portfolio-2unb.vercel.app/"><b>basit-portfolio-2unb.vercel.app</b></a>
 </p>
 
@@ -201,15 +189,10 @@ My main strength is **backend-focused development**, but I enjoy working across 
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-basit-29913028a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Basit-Arshad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:basitarshad97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://basit-portfolio-2unb.vercel.app/">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/muhammad-basit-29913028a/">LinkedIn</a> |
+  <a href="https://github.com/Basit-Arshad">GitHub</a> |
+  <a href="mailto:basitarshad97@gmail.com">Email</a>
 </p>
 
 ---
